@@ -62,7 +62,7 @@ window.addEventListener("load", () => {
                     valeur2 = null ;
                     operateur = null ;
                 }
-            } else if (action === "clear") {
+                        } else if (action === "clear") {
                 screen.textContent = "0";
                 valeur1 = null ;
                 valeur2 = null ;
